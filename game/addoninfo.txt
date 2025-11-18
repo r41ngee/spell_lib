@@ -3,7 +3,6 @@
 	TeamCount = 2
 	maps = 
 	[
-		"template_map",
 		"dota",
 	]
 	IsPlayable = 1

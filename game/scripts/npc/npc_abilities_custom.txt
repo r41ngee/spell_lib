@@ -6,8 +6,6 @@
 #base "abilities/roshan.txt"
 #base "abilities/tormentor.txt"
 
-#base "abilities/crow.txt"
-
 "DOTAAbilities"
 {
 	// ability_datadriven example
