@@ -1,0 +1,7 @@
+update.ps1
+
+game/panorama/
+
+game/tools_asset_info.bin
+game/tools_thumbnail_cache.bin
+game/panorama_debugger.cfg
